@@ -27,7 +27,7 @@
 
 **Database & Tools:**  
 ![sql](https://img.shields.io/badge/SQL-316192?style=flat&logo=sql&logoColor=white) 
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
+![plsql](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
 
