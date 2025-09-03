@@ -31,12 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
 
----
-
-### 📊 GitHub Stats
-![snake gif](https://github.com/bobbadi-ramesh/bobbadi-ramesh/blob/output/github-contribution-grid-snake.gif)
-
-
 ### 🌐 Connect with me  
 <p align="left">
 <a href="https://linkedin.com/in/bobbadi-ramesh-066823312" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
