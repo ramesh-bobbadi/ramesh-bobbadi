@@ -34,12 +34,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobbadi-ramesh&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbadi-ramesh&theme=tokyonight" alt="streak" height="180"/>
-</p>
+![snake gif](https://github.com/bobbadi-ramesh/bobbadi-ramesh/blob/output/github-contribution-grid-snake.gif)
 
----
 
 ### 🌐 Connect with me  
 <p align="left">
