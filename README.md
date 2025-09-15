@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js, Django, and PostgreSQL<br>💡 I love building scalable web apps and solving real-world problems<br>💬 Ask me about Python, JavaScript, SQL, React, Django<br>📫 Reach me at bobbadiramesh6@gmail.com or Linkdin : linkedin.com/in/bobbadi-ramesh-066823312<br>⚡ Fun fact: I debug more than I code 😅
+🌱 I’m currently learning React.js, Django, and PostgreSQL<br>💡 I love building scalable web apps and solving real-world problems<br>💬 Ask me about Python, JavaScript, SQL, React, Django<br>📫 Reach me at bobbadiramesh6@gmail.com or Linkdin :<a href="linkedin.com/in/bobbadi-ramesh-066823312"/><br>⚡ Fun fact: I debug more than I code 😅
 
 
 ## 🌐 Socials:
